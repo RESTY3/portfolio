@@ -1,0 +1,27 @@
+body {
+    background-image: url('bki.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+}
+img{
+    height:200px;
+    width:200px;
+    margin-left: 40%;
+    border-radius: 100%;
+    position:center;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+
+    
+}
+p{
+    color: white;
+    text-align: center;
+}
