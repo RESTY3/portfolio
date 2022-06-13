@@ -1,0 +1,16 @@
+body{
+    background-color: teal;
+}
+*{
+    box-sizing: border-box;
+}
+.mother{
+    margin:auto;
+    width:230px;
+    padding: 16px;
+    background-color: white;
+    box-shadow: 20px 20px 20px 0px rgba(0,0,0,0.7);
+}
+label{
+    padding-top: 20px;
+}
