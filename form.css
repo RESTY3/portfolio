@@ -6,11 +6,33 @@ body{
 }
 .mother{
     margin:auto;
-    width:230px;
+    width:250px;
     padding: 16px;
     background-color: white;
     box-shadow: 20px 20px 20px 0px rgba(0,0,0,0.7);
 }
 label{
     padding-top: 20px;
+}
+input[type='text'],
+input[type='password']{
+    width:230px;
+    padding: 15px;
+    display: inline-block;
+    border: none;
+    margin: 5px 0 22px 0;
+    background-color: whitesmoke;
+}
+.registerbtn{
+    background-color: teal;
+    color: white;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin: auto;
+    opacity: 0.8;
+}
+.registerbtn:hover{
+    opacity: 1;
 }
